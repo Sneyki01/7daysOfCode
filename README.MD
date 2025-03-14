@@ -1,5 +1,7 @@
 <h1>7 DAYS OF CODE!</h1>
 
+![Static Badge](https://img.shields.io/badge/Status-InProgress-yellow)
+
 En esta ocasion estaremos realizando el #7daysOfCode challenge! 
 
 Un reto propuesto por AluraLatam en donde durante 7 dias nos estaran dando retos a realizar para mejorar la logica de programacion en javascript.
