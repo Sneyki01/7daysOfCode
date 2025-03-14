@@ -1,7 +1,5 @@
 <h1>7 DAYS OF CODE!</h1>
 
-![Logo Amigo secreto](https://pasteboard.co/ap61VMlFHQHA.png)
-
 ![Static Badge](https://img.shields.io/badge/Status-InProgress-yellow)
 
 En esta ocasion estaremos realizando el #7daysOfCode challenge! 
