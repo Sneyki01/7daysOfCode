@@ -1,6 +1,6 @@
 <h1>7 DAYS OF CODE!</h1>
 
-![Imagen Logo Amigo secreto](https://imgur.com/tDXOXNo)
+![Logo Amigo secreto](https://imgur.com/a/Wdl9mDH)
 
 ![Static Badge](https://img.shields.io/badge/Status-InProgress-yellow)
 
